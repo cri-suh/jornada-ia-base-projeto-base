@@ -362,6 +362,10 @@ span.material-symbols-outlined {
     font-weight: 400;
     line-height: 32px; /* 160% */
 }
+.footer__text-info a{
+    font-size: 28px;
+    color: var(--cinza-escuro);
+}
 
 .footer__social-media-container {
     text-align: center;
